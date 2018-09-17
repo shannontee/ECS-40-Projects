@@ -1,0 +1,6 @@
+*.txt
+*.out
+.DS_Store
+*.exec
+*.zip
+*.csv
