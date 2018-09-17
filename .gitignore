@@ -1,6 +1,7 @@
 *.txt
 *.out
 .DS_Store
+addresses
 *.exec
 *.zip
 *.csv
